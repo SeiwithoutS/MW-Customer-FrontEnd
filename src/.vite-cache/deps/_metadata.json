@@ -1,0 +1,40 @@
+{
+  "hash": "6484615e",
+  "configHash": "70fcf4e1",
+  "lockfileHash": "1597f8c9",
+  "browserHash": "66e1194c",
+  "optimized": {
+    "react": {
+      "src": "../../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "436e2621",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../../node_modules/react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "7cb7c3b9",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "bd872297",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "7413679d",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-GM55RH7O": {
+      "file": "chunk-GM55RH7O.js"
+    },
+    "chunk-HSQUFFLP": {
+      "file": "chunk-HSQUFFLP.js"
+    }
+  }
+}
